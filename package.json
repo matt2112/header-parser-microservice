@@ -1,0 +1,16 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "simple API to parse request headers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Matt Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "ipware": "^1.0.0",
+    "useragent": "^2.1.11"
+  }
+}
